@@ -2,10 +2,12 @@
 Ejemplo simple de un chatbot creado el Phyton, Computacion Emergentes
 
 ##chatbot.py - Documentación##
+
 ###Descripción###
 El archivo chatbot.py implementa un simple chatbot en Python utilizando la biblioteca NLTK para procesamiento 
 de lenguaje natural. El chatbot responde a ciertas entradas del usuario y proporciona respuestas predefinidas.
-**Estructura del Código**
+
+###Estructura del Código###
 El código está estructurado de la siguiente manera:
 **Importación de bibliotecas:**
 import nltk
